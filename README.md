@@ -118,8 +118,6 @@ The Tableau dashboard presents:
 - Average Sleep by Day
 - Key Insights
 
-## Dashboard
-
 ![Bellabeat Wellness Dashboard](dashboard.png)
 
 ## Business Recommendations
@@ -152,7 +150,7 @@ bellabeat-wellness-analysis/
 ├── bellabeat_analysis.py
 ├── bellabeat_final_analysis.csv
 ├── dashboard.png
-│__ requirements.txt
+├── requirements.txt
 ```
 
 ## Project Outcome
