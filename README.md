@@ -118,9 +118,9 @@ The Tableau dashboard presents:
 - Average Sleep by Day
 - Key Insights
 
-Dashboard screenshot:
+## Dashboard
 
-`dashboard/dashboard.png`
+![Bellabeat Wellness Dashboard](dashboard.png)
 
 ## Business Recommendations
 
@@ -148,13 +148,11 @@ Because activity and calories burned showed a positive relationship in this data
 ```text
 bellabeat-wellness-analysis/
 │
+├── README.md
 ├── bellabeat_analysis.py
 ├── bellabeat_final_analysis.csv
-├── requirements.txt
-├── README.md
-│
-└── dashboard/
-    └── dashboard.png
+├── dashboard.png
+│__ requirements.txt
 ```
 
 ## Project Outcome
